@@ -1,2 +1,2 @@
 # Bank-Mod
-Little Bank System
+A simple Bank System
